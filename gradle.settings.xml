@@ -1,0 +1,5 @@
+<application>
+  <component name="GradleSystemSettings">
+    <option name="gradleVmOptions" value="-Djavax.net.ssl.trustStore=gradle/certs.jks -Djavax.net.ssl.trustStorePassword=changeit" />
+  </component>
+</application>
