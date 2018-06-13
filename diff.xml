@@ -1,11 +1,4 @@
 <application>
-  <component name="DiffManager">
-    <enableFiles value="true" />
-    <enableMerge value="true" />
-    <filesTool value="/usr/local/bin/kdiff3" newValue="/usr/local/bin/kdiff3" />
-    <mergeTool value="/usr/local/bin/kdiff3" newValue="/usr/local/bin/kdiff3" />
-    <mergeToolParameters value="%3 %2 %1 -o %4" />
-  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="CommitDialog">
